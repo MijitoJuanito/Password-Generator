@@ -1,43 +1,42 @@
+# Password Generator ![license](https://img.shields.io/badge/license-MIT-green)
 
-# Password Genorator
+## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Executing-Program](###Executing-Program)
+  * [Demonstration](###Demonstration)
+  * [Questions](#questions)
+  * [License](#license)
+  
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
 
-## Description
+## Description:
+  This code is to show the basic understanding of Javascript with HTML and CSS and also used to create a randomly generated password following a couple of prompts
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
 ## Getting Started
 
-### Dependencies
+### Installation
 
-* index.html
-* script.js
-* style.css
+Download code
 
-### Executing program
+### Executing-Program
+* Open the index.html in a default browser
 
-* open the index.html in default browser
+### Demonstration
+
+![Demo of Password Generator](./assets/PasswordGen%10.jpg)
+[REACT PORTFOLIO DEMO](https://text-editor323-41195e3b23fc.herokuapp.com)
+
+
+
+
+### Questions
+* Github: MijitoJuanito
+* Email: j.v.delcruz70120@gmail.com
 
 
 ## Authors
 
-Contributors names and contact info
 
 Juan De La Cruz  
 
@@ -66,8 +65,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
 
 
 
