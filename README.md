@@ -24,7 +24,7 @@ Download code
 
 ### Demonstration
 
-![Demo of Password Generator](./assets/PasswordGen%10.jpg)
+![Demo of Password Generator](./assets/PasswordGen.jpg)
 [REACT PORTFOLIO DEMO](https://text-editor323-41195e3b23fc.herokuapp.com)
 
 
