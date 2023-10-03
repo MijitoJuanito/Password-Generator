@@ -25,7 +25,7 @@ Download code
 ### Demonstration
 
 ![Demo of Password Generator](./assets/PasswordGen.jpg)
-[PASSWORD GEN DEMO]((https://mijitojuanito.github.io/Password-Generator/)))
+[PASSWORD GEN DEMO](https://mijitojuanito.github.io/Password-Generator/)
 
 
 
